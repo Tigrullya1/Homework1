@@ -1,3 +1,4 @@
+// оставшиеся задания
 public class Lesson {
 
     // 1.3
